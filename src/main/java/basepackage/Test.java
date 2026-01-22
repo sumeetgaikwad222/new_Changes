@@ -6,5 +6,6 @@ public class Test {
 
 	public void name() {
 		System.out.println("sumeet");
+		System.out.println("gaikwad");
 	}
 }
